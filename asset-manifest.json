@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b2045af5.css",
+    "main.js": "/static/js/main.3842e968.js",
+    "static/media/archyedt-bold.otf": "/static/media/archyedt-bold.92e47a7ff05bddc6633d.otf",
+    "index.html": "/index.html",
+    "main.b2045af5.css.map": "/static/css/main.b2045af5.css.map",
+    "main.3842e968.js.map": "/static/js/main.3842e968.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2045af5.css",
+    "static/js/main.3842e968.js"
+  ]
+}
